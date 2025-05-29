@@ -1,0 +1,14 @@
+github.com/WJQSERVER-STUDIO/go-utils/copyb v0.0.4 h1:JLtFd00AdFg/TP+dtvIzLkdHwKUGPOAijN1sMtEYoFg=
+github.com/WJQSERVER-STUDIO/go-utils/copyb v0.0.4/go.mod h1:FZ6XE+4TKy4MOfX1xWKe6Rwsg0ucYFCdNh1KLvyKTfc=
+github.com/WJQSERVER-STUDIO/go-utils/log v0.0.3 h1:t6nyLhmo9pSfVHm1Wu1WyLsTpXFSjSpQtVKqEDpiZ5Q=
+github.com/WJQSERVER-STUDIO/go-utils/log v0.0.3/go.mod h1:j9Q+xnwpOfve7/uJnZ2izRQw6NNoXjvJHz7vUQAaLZE=
+github.com/WJQSERVER-STUDIO/httpc v0.5.1 h1:+TKCPYBuj7PAHuiduGCGAqsHAa4QtsUfoVwRN777q64=
+github.com/WJQSERVER-STUDIO/httpc v0.5.1/go.mod h1:M7KNUZjjhCkzzcg9lBPs9YfkImI+7vqjAyjdA19+joE=
+github.com/WJQSERVER-STUDIO/logger v1.7.2 h1:Tu9WICwlrY+BMQmY7k4llDB1ziFtZ9VmK7/85VIPN+M=
+github.com/WJQSERVER-STUDIO/logger v1.7.2/go.mod h1:yzXPtot0OvR1gzx4+rlFrv/sccUpz0gIXVBwUx3H7fM=
+github.com/go-json-experiment/json v0.0.0-20250517221953-25912455fbc8 h1:o8UqXPI6SVwQt04RGsqKp3qqmbOfTNMqDrWsc4O47kk=
+github.com/go-json-experiment/json v0.0.0-20250517221953-25912455fbc8/go.mod h1:TiCD2a1pcmjd7YnhGH0f/zKNcCD06B029pHhzV23c2M=
+github.com/infinite-iroha/touka v0.0.2 h1:pHpuHof23wPMzoZDEw4/lK26zXr2nApkBH6jVp6m0ts=
+github.com/infinite-iroha/touka v0.0.2/go.mod h1:PGePW1+xnBdfTQK9mXUck+lOPxkoFSV1wWMSOn2ifAI=
+github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
+github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
