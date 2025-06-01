@@ -27,6 +27,6 @@ func Middleware() touka.HandlerFunc {
 		endTime := time.Now()
 		timingResults := endTime.Sub(startTime)
 
-		logInfo("%s %s %s %s %s %d %s ", c.ClientIP(), c.Request.Method, c.Request.Header.Get("Protocol"), c.Request.URL.Path, c.Request.UserAgent(), c.Writer.Status(), timingResults)
+		logInfo("%s %s %s %s %s %d %s ", c.ClientIP(), c.Request.Method, c.GetProtocol(), c.Request.URL.Path, c.Request.UserAgent(), c.Writer.Status(), timingResults)
 	}
 }
