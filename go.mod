@@ -2,7 +2,7 @@ module github.com/fenthope/record
 
 go 1.24.5
 
-require github.com/infinite-iroha/touka v0.3.4
+require github.com/infinite-iroha/touka v0.3.6
 
 require (
 	github.com/WJQSERVER-STUDIO/go-utils/iox v0.0.2 // indirect
